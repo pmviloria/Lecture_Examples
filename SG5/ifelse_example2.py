@@ -1,5 +1,5 @@
 age = int(input("Enter your age: "))
 if age >= 18:
-print("Adult")
+    print("Adult")
 else:
-print("Minor")
+    print("Minor")
